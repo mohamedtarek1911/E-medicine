@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/E-medicine/static/css/main.5261e924.css",
+    "main.js": "/E-medicine/static/js/main.177f592a.js",
+    "static/media/input.png": "/E-medicine/static/media/input.f257bc3c2ce5ae3a57db.png",
+    "static/media/my-account.jpg": "/E-medicine/static/media/my-account.b60f4f583f3603323573.jpg",
+    "static/media/Medicine.svg": "/E-medicine/static/media/Medicine.1aedb0410436a16572b1e6f1676f5a95.svg",
+    "static/media/slick.svg": "/E-medicine/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-medicine/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-medicine/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-medicine/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-medicine/index.html",
+    "main.5261e924.css.map": "/E-medicine/static/css/main.5261e924.css.map",
+    "main.177f592a.js.map": "/E-medicine/static/js/main.177f592a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5261e924.css",
+    "static/js/main.177f592a.js"
+  ]
+}
